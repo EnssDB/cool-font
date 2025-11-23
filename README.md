@@ -1,4 +1,4 @@
-i made this page just because i got bored and wanted to get an issues page
+not really a repo just needed an issues page
 
 
 
